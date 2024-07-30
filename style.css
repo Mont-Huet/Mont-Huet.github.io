@@ -1,0 +1,27 @@
+*{
+    font-family: "Roboto", sans-serif;
+}
+header{
+    background-color: #242739;
+}
+header span{
+    color: white;
+}
+.nav-item a{
+    color:  white;
+}
+.nav-item a:visited{
+    color: white;
+}
+.nav-item a:hover{
+    color: black;
+}
+#nav-butoon{
+    background-color: #33454e;
+
+}
+.bi{
+    color: #042940;
+    font-size: 1.5cm;
+}
+
