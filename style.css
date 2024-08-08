@@ -21,7 +21,25 @@ header span{
 
 }
 .bi{
-    color: #042940;
+    color: black;
     font-size: 1.5cm;
+}
+.img-proyecto1{
+    background-image: url(/assets/Captura\ de\ pantalla\ \(215\).png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+footer{
+    background-color: #242739;
+}
+footer .icon-footer i{
+    color: bisque;
+}
+footer p{
+    color: bisque;
+}
+footer p a{
+    color: bisque;
 }
 
